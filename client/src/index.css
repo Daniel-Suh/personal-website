@@ -317,3 +317,12 @@ footer {
   nav ul a { font-size: 0.82rem; }
   .contact-links { flex-direction: column; }
 }
+
+.loading {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  font-size: 1rem;
+}
